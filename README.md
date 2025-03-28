@@ -1,1 +1,1 @@
-New UIX for game page + sidebar ads. 
+Fork without ads because you shouldn't be showing kids advertisments and because I don't want to
